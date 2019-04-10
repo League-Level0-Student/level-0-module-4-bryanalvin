@@ -24,5 +24,23 @@ if(dead.equals("Slice them to peices and your companions run away from you")) {
 	}
 JOptionPane.showMessageDialog(null, "The group falls down a dark pit to choas path and they have to get back to dere land good thing the boy is prepared");
 
+JOptionPane.showMessageDialog(null, "The lord of Choas appears and suddenly takes the girls to his palace,the boy run's to stop him but is easily pushed back to the start");
+
+JOptionPane.showMessageDialog(null, "he runs back to the palace with his sword in hand and breaks down the door with his sword");
+
+JOptionPane.showMessageDialog(null, "The boy runs at the lord of choas with the intention of making him suffer");
+
+JOptionPane.showMessageDialog(null, "The demon lord slaps one of the girls that knocked her out and sent the boy over the edge with rage in his eyes");
+
+JOptionPane.showMessageDialog(null, "He ran as fast at lightning and attacked the demon lord With a Jumping slash");
+}	
+	
+	
+	
+	
+	
+	
+
 }
-}
+	
+
