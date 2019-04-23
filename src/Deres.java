@@ -3,16 +3,21 @@ import javax.swing.JOptionPane;
 public class Deres {
 public static void main(String[] args) {
 JOptionPane.showMessageDialog(null,"There was once a boy who was all about the anime life he watched it day in and day out but one day he had a dream about anime" );
+
 JOptionPane.showMessageDialog(null,"There was pots and pans,ramen and Girls and the SEVEN DEADLY SINS TOO!He see's Two paths one to Dere land and one to choas world.");
 String blade=JOptionPane.showInputDialog("Which path should he take the Chaos path or Dere land ");
 if(blade.equals("Chaos Path")) {
 	JOptionPane.showMessageDialog(null, "The boy goes to Choas path along the way he runs into a monster that swallows him up and he dies in the dream and wakes up in real life.");
-}
-	if(blade.equals("Dere land"))
+}else if(blade.equals("Dere land")){
+	
 JOptionPane.showMessageDialog(null,"Onwards he goes to Dere land The place for Happy,Annoying And Creepy anime girls diffrent types as well as secretive ones too");
+
 JOptionPane.showMessageDialog(null,"Along the way he meets June,Kyoko,Haru and Chiaki they alll were strange in their own ways but they were all right i guess but the hardships he will have to face will be tough but he will get through it.");
+
 JOptionPane.showMessageDialog(null,"They all run into a Big monster snake thing they have no weapons but then a giant sword appeared in the boy's hand and with great aim a slice to the beast's neck and it died. ");
+
 JOptionPane.showMessageDialog(null,"The boy held the sword in his hands for the rest of his journey and the group runs into a harem a big one too");
+
 JOptionPane.showMessageDialog(null,"The group was no match for the wave of girls in their path so the boy did something no one would ever do. ");
 String dead=JOptionPane.showInputDialog("What should he do kiss the girl or slice them to pieces?");
 if(dead.equals("Kiss a girl and start a fight")) {
@@ -33,6 +38,23 @@ JOptionPane.showMessageDialog(null, "The boy runs at the lord of choas with the 
 JOptionPane.showMessageDialog(null, "The demon lord slaps one of the girls that knocked her out and sent the boy over the edge with rage in his eyes");
 
 JOptionPane.showMessageDialog(null, "He ran as fast at lightning and attacked the demon lord With a Jumping slash");
+
+JOptionPane.showMessageDialog(null, "The Demon lord blocked this easily and without even trying pushes him back and sends the boy flying into next year");
+
+JOptionPane.showMessageDialog(null, "The boy got up and ran at him again this time he got very mad and turned into a demon himself");
+
+JOptionPane.showMessageDialog(null, "All of his companions saw what he turned into and looked at him all with confused looks");
+
+JOptionPane.showMessageDialog(null, "The boy's sword turned into the demon slayer sword and with the power of his friends killed the demon lord");
+
+JOptionPane.showMessageDialog(null, "He somehow got wings and took the girls back to dere land where he turned back and fell down");
+
+JOptionPane.showMessageDialog(null, "All the people in dere land crowded around and an started saying some words");
+
+JOptionPane.showMessageDialog(null, "He wakes up feeling very tired from the fight with the demon lord and they all started saying his name.....Asta,Asta,Asta,Asta!");
+
+JOptionPane.showMessageDialog(null, "Then he wakes up from his dream feeling very good about himself and started a new day");
+}
 }	
 	
 	
