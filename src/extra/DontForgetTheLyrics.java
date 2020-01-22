@@ -21,16 +21,31 @@ public class DontForgetTheLyrics {
 	
 	public static void main(String[] args) {
 		// 4. Make a pop-up to explain the game.
-
+JOptionPane.showMessageDialog(null, "I shall explain the game.Yu have to guess the rest of the lyrics of this thing i made ok?");
 		// 5. Use the playSound method to play your song.
-
+playSound("Sup.wav");
 		// 6. Make a pop-up for the player to type their answer.
-
+String Music=JOptionPane.showInputDialog("Now type your answer.");
 		// 7. If they answered correctly, tell them that they were right.
+if (Music.equalsIgnoreCase("Girls Like you")) {
+	JOptionPane.showMessageDialog(null, "Your Right!");
+}
+else { JOptionPane.showMessageDialog(null, "Your Wrong.");
+	
+}
+if (Music.equalsIgnoreCase("Barnes Firm")) {
+	JOptionPane.showMessageDialog(null, "Your Right!");
+}
+else { JOptionPane.showMessageDialog(null, "Your Wrong.");
+	
+}
+playSound("Copyright.wav");
+// 6. Make a pop-up for the player to type their answer.
+JOptionPane.showInputDialog("Now type your answer.");
+// 7. If they answered correctly, tell them that they were right.
 
-		// 8. Otherwise, tell them they are wrong, and give them the answer.
+// 8. Otherwise, tell them they are wrong, and give them the answer.
 
-		// 9. Record another sound and repeat steps 5-8.
 
 		// 10. [optional] Add a points variable that will calculate their final score.
 	}
