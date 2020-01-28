@@ -51,7 +51,7 @@ JOptionPane.showMessageDialog(null, "He somehow got wings and took the girls bac
 
 JOptionPane.showMessageDialog(null, "All the people in dere land crowded around and an started saying some words");
 
-JOptionPane.showMessageDialog(null, "He wakes up feeling very tired from the fight with the demon lord and they all started saying his name.....Asta,Asta,Asta,Asta!");
+JOptionPane.showMessageDialog(null, "He wakes up feeling very tired from the fight with the demon lord !");
 
 JOptionPane.showMessageDialog(null, "Then he wakes up from his dream feeling very good about himself and started a new day");
 }

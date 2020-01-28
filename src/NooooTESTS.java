@@ -24,7 +24,7 @@ public static void main(String[] args) {
 	if(Look==6)
 	JOptionPane.showMessageDialog(null,"You got a B- uhhh Himedere" );
 	if(Look==7)
-	JOptionPane.showMessageDialog(null,"You got a B the goddes of deres kamidere " );
+	JOptionPane.showMessageDialog(null,"You got a B the goddess of deres kamidere " );
 	if(Look==8)
 	JOptionPane.showMessageDialog(null,"You got a B+ DereDere " );
 	
